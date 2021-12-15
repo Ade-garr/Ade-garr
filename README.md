@@ -1,13 +1,15 @@
 ### Hi there, I'm Alex - aka [Ade-garr][github] 👋 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ade-garr)]
+[jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ade-garr)
 
 ## I'm an alumn of [42Paris][42] and Developer!
 
 - 🔭 I’m currently working on: fullstack skills with [the Odin project!][Odin]!
-- 🌱 I’m currently learning everything 😄
+- 🌱 I’m currently learning: HTML/CSS/JS
 - 📫 How to reach me:  ade-garr@student.42.fr / [Linkedin][linkedin]
 - ⚡ Fun fact: Former financial senior auditor 🤔
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Connect with me:
 
@@ -17,17 +19,17 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="C/C++" width="26px" src=https://docs.microsoft.com/fr-fr/windows/images/c-logo.png />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C/C++" width="26px" src=https://docs.microsoft.com/fr-fr/windows/images/c-logo.png />
 
 <br />
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-garr&theme=radical)]
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-garr&theme=radical&show_icons=true)
 
 
 </details>
