@@ -9,7 +9,7 @@
 - 📫 How to reach me:  ade-garr@student.42.fr / [Linkedin][linkedin]
 - ⚡ Fun fact: Former financial senior auditor 🤔
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-garr&layout=compact&theme=radical&show_icons=true)
 
 ### Connect with me:
 
@@ -25,11 +25,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C/C++" width="26px" src=https://docs.microsoft.com/fr-fr/windows/images/c-logo.png />
 
-<br />
+<!-- <br /> -->
 
----
+<!-- --- -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-garr&theme=radical&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-garr&theme=radical&show_icons=true) -->
 
 
 </details>
