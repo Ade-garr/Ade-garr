@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex - aka [Ade-garr][github] 👋 
 
-[jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ade-garr)
+![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ade-garr)
 
 ## I'm an alumn of [42Paris][42] and Developer!
 
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -29,7 +29,7 @@
 
 ---
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-garr&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ade-garr&theme=radical&show_icons=true)
 
 
 </details>
