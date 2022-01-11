@@ -9,7 +9,7 @@
 - 📫 How to reach me:  ade-garr@student.42.fr / [Linkedin][linkedin]
 - ⚡ Fun fact: Former financial senior auditor 🤔
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-garr&layout=compact&theme=radical&show_icons=true&exclude_repo=ft_server,ft_services)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-garr&layout=compact&theme=radical&show_icons=true&exclude_repo=ft_server,ft_services)
 
 ### Connect with me:
 
