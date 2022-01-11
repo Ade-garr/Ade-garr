@@ -11,8 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-garr&layout=compact&theme=radical&show_icons=true&exclude_repo=ft_server,ft_services)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ade-garr&layout=compact&theme=radical&show_icons=true&exclude_repo=ft_server,ft_services)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
