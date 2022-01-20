@@ -37,7 +37,7 @@
 [42]: https://42.fr/en/homepage/
 [github]: https://github.com/Ade-garr
 [Odin]: https://www.theodinproject.com/
-[linkedin]: https://github.com/Ade-garr
+[linkedin]: https://www.linkedin.com/in/alexandre-de-garrigues-b891ba22b/
 
 
 <!--
